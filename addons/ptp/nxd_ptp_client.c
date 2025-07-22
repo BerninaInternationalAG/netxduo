@@ -64,6 +64,7 @@
 #endif
 #endif
 #include "tx_timer.h"
+#include "fx_port.h"
 
 /* #define NX_PTP_DEBUG */
 /* #define NX_PTP_DEBUG_OFFSET */

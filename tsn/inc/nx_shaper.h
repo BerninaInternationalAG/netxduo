@@ -54,6 +54,7 @@ extern   "C" {
 #endif
 
 #include "nx_api.h"
+#include "fx_port.h"
 
 /* Define shaper constants. */
 #define NX_SHAPER_CLASS_A_PCP                           (3)
